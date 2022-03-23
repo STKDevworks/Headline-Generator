@@ -1,0 +1,30 @@
+.headline-gen-cols{
+  display: flex;
+}
+.word-col, .headline-gen-bot, .headline-gen-btn-gen, .headline-gen-out {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+    text-align:center;
+}
+.word-col label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.headline-gen-bot {
+  display:flex;
+  flex-direction: row;
+}
+.headline-gen-out {
+  width: -webkit-fill-available;
+}
+
+.headline-gen-btn-add {
+    display: flex;
+    flex-direction: column;
+    place-self: end;
+    margin: 5px;
+    text-align: center;
+    height: fit-content;
+}

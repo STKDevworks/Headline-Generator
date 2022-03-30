@@ -2,68 +2,175 @@
 <div class="headline-gen-cols">
 
 <div class="word-col" id="word1-col">
-<label for="word1">1st Word:</label>
-<select name="word1" id="word1">
+<label for="word1">1st Word</label>
+<select name="word1feel" id="word1feel">
   <option value="Power">Power</option>
   <option value="Emotion">Emotion</option>
   <option value="Common">Common</option>
   <option value="Uncommon">Uncommon</option>
+  <option value="Any">Any</option>
 </select>
+<select name="word1type" id="word1type">
+  <option value="Verb">Verb</option>
+  <option value="Subject">Subject</option>
+  <option value="Adjective">Adjective</option>
+  <option value="Connector">Connector</option>
+  <option value="Any">Any</option>
+</select>
+<input class="custom-word" id="word1-cst" value="Custom / Blank"/>
 </div>
 
 <div class="word-col" id="word2-col">
-<label for="word2">2nd Word:</label>
-<select name="word2" id="word2">
+<label for="word2">2nd Word</label>
+<select name="word2feel" id="word2feel">
   <option value="Power">Power</option>
   <option value="Emotion">Emotion</option>
   <option value="Common">Common</option>
   <option value="Uncommon">Uncommon</option>
+  <option value="Any">Any</option>
 </select>
+<select name="word2type" id="word2type">
+  <option value="Verb">Verb</option>
+  <option value="Subject">Subject</option>
+  <option value="Adjective">Adjective</option>
+  <option value="Connector">Connector</option>
+  <option value="Any">Any</option>
+</select>
+<input class="custom-word" id="word2-cst" value="Custom / Blank"/>
 </div>
 
 <div class="word-col" id="word3-col">
-<label for="word3">3rd Word:</label>
-<select name="word3" id="word3">
+<label for="word3">3rd Word</label>
+<select name="word3feel" id="word3feel">
   <option value="Power">Power</option>
   <option value="Emotion">Emotion</option>
   <option value="Common">Common</option>
   <option value="Uncommon">Uncommon</option>
+  <option value="Any">Any</option>
 </select>
+<select name="word3type" id="word3type">
+  <option value="Verb">Verb</option>
+  <option value="Subject">Subject</option>
+  <option value="Adjective">Adjective</option>
+  <option value="Connector">Connector</option>
+  <option value="Any">Any</option>
+</select>
+<input class="custom-word" id="word3-cst" value="Custom / Blank"/>
 </div>
 
 <div class="word-col" id="word4-col">
-<label for="word4">4th Word:</label>
-<select name="word4" id="word4">
+<label for="word4">4th Word</label>
+<select name="word4feel" id="word4feel">
   <option value="Power">Power</option>
   <option value="Emotion">Emotion</option>
   <option value="Common">Common</option>
   <option value="Uncommon">Uncommon</option>
+  <option value="Any">Any</option>
 </select>
+<select name="word4type" id="word4type">
+  <option value="Verb">Verb</option>
+  <option value="Subject">Subject</option>
+  <option value="Adjective">Adjective</option>
+  <option value="Connector">Connector</option>
+  <option value="Any">Any</option>
+</select>
+<input class="custom-word" id="word4-cst" value="Custom / Blank"/>
+
 </div>
 
 <div class="word-col" id="word5-col">
-<label for="word5">5th Word:</label>
-<select name="word5" id="word5">
+<label for="word5">5th Word</label>
+<select name="word5feel" id="word5feel">
   <option value="Power">Power</option>
   <option value="Emotion">Emotion</option>
   <option value="Common">Common</option>
   <option value="Uncommon">Uncommon</option>
+  <option value="Any">Any</option>
 </select>
+<select name="word5type" id="word5type">
+  <option value="Verb">Verb</option>
+  <option value="Subject">Subject</option>
+  <option value="Adjective">Adjective</option>
+  <option value="Connector">Connector</option>
+  <option value="Any">Any</option>
+</select>
+<input class="custom-word" id="word5-cst" value="Custom / Blank"/>
+
 </div>
 
-<button class="headline-gen-btn-add" disabled>
-Add Word
+<div class="word-col" id="word6-col">
+<label for="word6">6th Word</label>
+<select name="word6feel" id="word6feel">
+  <option value="Power">Power</option>
+  <option value="Emotion">Emotion</option>
+  <option value="Common">Common</option>
+  <option value="Uncommon">Uncommon</option>
+  <option value="Any">Any</option>
+</select>
+<select name="word6type" id="word6type">
+  <option value="Verb">Verb</option>
+  <option value="Subject">Subject</option>
+  <option value="Adjective">Adjective</option>
+  <option value="Connector">Connector</option>
+  <option value="Any">Any</option>
+</select>
+<input class="custom-word" id="word6-cst" value="Custom / Blank"/>
+
+</div>
+
+<div class="word-col" id="word7-col">
+<label for="word7">7th Word</label>
+<select name="word7feel" id="word7feel">
+  <option value="Power">Power</option>
+  <option value="Emotion">Emotion</option>
+  <option value="Common">Common</option>
+  <option value="Uncommon">Uncommon</option>
+  <option value="Any">Any</option>
+</select>
+<select name="word7type" id="word7type">
+  <option value="Verb">Verb</option>
+  <option value="Subject">Subject</option>
+  <option value="Adjective">Adjective</option>
+  <option value="Connector">Connector</option>
+  <option value="Any">Any</option>
+</select>
+<input class="custom-word" id="word7-cst" value="Custom / Blank"/>
+
+</div>
+<div class="btn-options">
+<label>Options</label>
+<button class="headline-gen-btn-rst" onclick="headlineReset()">
+Reset!
 </button>
+<button class="headline-gen-btn-rst" onclick="headlineSave()">
+Save This!
+</button>
+</div>
+
+
+<!-- <button class="headline-gen-btn-add" disabled>
+Add Word
+</button> -->
 
 </div>
 <div class ="headline-gen-bot">
 
 
+
+
+<input class="headline-gen-out" id="headline-output" type="text" value="Lorem Ipsum Dolor Sin Amet"/>
+
 <button class="headline-gen-btn-gen" onclick="headlineGen()">
-Generate
+I'm Feeling Lucky!
 </button>
 
+</div>
+<div class="headline-gen-saves">
 
-<input class="headline-gen-out" id="headline-output" type="text" value="Example"/>  <!-- disabled -->
+
+<textarea class="headline-gen-save" id="headline-saved" disabled>Lorem Ipsum Dolor Sin Amet</textarea>
+<button class="headline-gen-btn-gen" onclick="copySaves()">
+Copy Saves!
+</button>
 </div>
 </div>

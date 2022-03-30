@@ -1,0 +1,4703 @@
+{
+"headline generator wordlist":[
+ {
+  "identifier": "great",
+  "word": "great",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "free_a",
+  "word": "free",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "free_v",
+  "word": "free",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "focus_s",
+  "word": "focus",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "focus_v",
+  "word": "focus",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "remarkable",
+  "word": "remarkable",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "conﬁdential",
+  "word": "conﬁdential",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "sale",
+  "word": "sale",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "wanted",
+  "word": "wanted",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "obsession",
+  "word": "obsession",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "sizable",
+  "word": "sizable",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "new",
+  "word": "new",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "absolutely",
+  "word": "absolutely",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "lowest",
+  "word": "lowest",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "surging_a",
+  "word": "surging",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "surging_v",
+  "word": "surging",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "wonderful",
+  "word": "wonderful",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "professional_a",
+  "word": "professional",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "professional_s",
+  "word": "professional",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "interesting",
+  "word": "interesting",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "revisited_a",
+  "word": "revisited",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "revisited_v",
+  "word": "revisited",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "delivered_a",
+  "word": "delivered",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "delivered_v",
+  "word": "delivered",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "guaranteed_a",
+  "word": "guaranteed",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "guaranteed_v",
+  "word": "guaranteed",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "challenge_s",
+  "word": "challenge",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "challenge_v",
+  "word": "challenge",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "secrets",
+  "word": "secrets",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "special_a",
+  "word": "special",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "special_s",
+  "word": "special",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "bargain",
+  "word": "bargain",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "scarce",
+  "word": "scarce",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "tested_a",
+  "word": "tested",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "tested_v",
+  "word": "tested",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "highest",
+  "word": "highest",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "hurry_v",
+  "word": "hurry",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "hurry_s",
+  "word": "hurry",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "alert_a",
+  "word": "alert",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "alert_s",
+  "word": "alert",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "famous",
+  "word": "famous",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "improved_a",
+  "word": "improved",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "improved_v",
+  "word": "improved",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "expert_a",
+  "word": "expert",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "expert_s",
+  "word": "expert",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "daring_a",
+  "word": "daring",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "daring_v",
+  "word": "daring",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "strong",
+  "word": "strong",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "immediately",
+  "word": "immediately",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "advice",
+  "word": "advice",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "pioneering_a",
+  "word": "pioneering",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "pioneering_v",
+  "word": "pioneering",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "unusual",
+  "word": "unusual",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "limited_a",
+  "word": "limited",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "limited_v",
+  "word": "limited",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "the_truth_about",
+  "word": "the truth about",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "destiny",
+  "word": "destiny",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "outstanding_a",
+  "word": "outstanding",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "outstanding_v",
+  "word": "outstanding",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "simplistic",
+  "word": "simplistic",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "compare",
+  "word": "compare",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "unsurpassed_a",
+  "word": "unsurpassed",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "unsurpassed_v",
+  "word": "unsurpassed",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "energy",
+  "word": "energy",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "powerful",
+  "word": "powerful",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "colorful",
+  "word": "colorful",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "genuine",
+  "word": "genuine",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "instructive",
+  "word": "instructive",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "big",
+  "word": "big",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "affordable",
+  "word": "affordable",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "informative",
+  "word": "informative",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "liberal_a",
+  "word": "liberal",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "liberal_s",
+  "word": "liberal",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "popular",
+  "word": "popular",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "ultimate",
+  "word": "ultimate",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "mainstream_a",
+  "word": "mainstream",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "mainstream_s",
+  "word": "mainstream",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "rare",
+  "word": "rare",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "exclusive",
+  "word": "exclusive",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "willpower",
+  "word": "willpower",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "complete_a",
+  "word": "complete",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "complete_v",
+  "word": "great",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "edge",
+  "word": "edge",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "valuable",
+  "word": "valuable",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "attractive",
+  "word": "attractive",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "last_chance",
+  "word": "last chance",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "superior",
+  "word": "superior",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "how to",
+  "word": "how to",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "easily",
+  "word": "easily",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "exploit_v",
+  "word": "exploit",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "exploit_s",
+  "word": "exploit",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "unparalleled",
+  "word": "unparalleled",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "endorsed_a",
+  "word": "endorsed",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "endorsed_v",
+  "word": "endorsed",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "approved_a",
+  "word": "approved",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "approved_v",
+  "word": "approved",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "quality_a",
+  "word": "quality",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "quality_s",
+  "word": "quality",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "fascinating_a",
+  "word": "fascinating",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "fascinating_v",
+  "word": "fascinating",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "unlimited_a",
+  "word": "unlimited",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "unlimited_v",
+  "word": "unlimited",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "competitive",
+  "word": "competitive",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "gigantic",
+  "word": "gigantic",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "compromise_a",
+  "word": "compromise",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "compromise_s",
+  "word": "compromise",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "compromise_v",
+  "word": "compromise",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "discount_v",
+  "word": "discount",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "discount_s",
+  "word": "discount",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "discount_a",
+  "word": "discount",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "full",
+  "word": "full",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "love_s",
+  "word": "love",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "love_v",
+  "word": "love",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "odd",
+  "word": "odd",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "fundamentals",
+  "word": "fundamentals",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "mammoth_s",
+  "word": "mammoth",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "mammoth_a",
+  "word": "mammoth",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "lavishly",
+  "word": "lavishly",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "bottom_line_s",
+  "word": "bottom line",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "bottom_line_a",
+  "word": "bottom line",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "under_priced_a",
+  "word": "under priced",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "under_priced_v",
+  "word": "under priced",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "innovative",
+  "word": "innovative",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "reliable",
+  "word": "reliable",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "zinger",
+  "word": "zinger",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "suddenly",
+  "word": "suddenly",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "it is here",
+  "word": "it is here",
+  "feeling": "Power",
+  "type": "Connector"
+ },
+ {
+  "identifier": "terriﬁc",
+  "word": "terriﬁc",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "simpliﬁed_v",
+  "word": "simpliﬁed",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "simpliﬁed_a",
+  "word": "simpliﬁed",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "perspective",
+  "word": "perspective",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "just arrived_v",
+  "word": "just arrived",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "just arrived_a",
+  "word": "just arrived",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "breakthrough_s",
+  "word": "breakthrough",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "breakthrough_a",
+  "word": "breakthrough",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "tremendous",
+  "word": "tremendous",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "launching_v",
+  "word": "launching",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "launching_a",
+  "word": "launching",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "sure ﬁre",
+  "word": "sure ﬁre",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "emerging_a",
+  "word": "emerging",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "emerging_v",
+  "word": "emerging",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "helpful",
+  "word": "helpful",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "skill",
+  "word": "skill",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "soar",
+  "word": "soar",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "proﬁtable",
+  "word": "proﬁtable",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "special offer",
+  "word": "special offer",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "reduced_a",
+  "word": "reduced",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "reduced_v",
+  "word": "reduced",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "beautiful",
+  "word": "beautiful",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "sampler_a",
+  "word": "sampler",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "sampler_s",
+  "word": "sampler",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "technology",
+  "word": "technology",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "better",
+  "word": "better",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "crammed_a",
+  "word": "crammed",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "crammed_v",
+  "word": "crammed",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "noted_a",
+  "word": "noted",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "noted_v",
+  "word": "noted",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "selected_a",
+  "word": "selected",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "selected_v",
+  "word": "selected",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "shrewd",
+  "word": "shrewd",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "growth",
+  "word": "growth",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "luxury_s",
+  "word": "luxury",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "luxury_a",
+  "word": "luxury",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "sturdy",
+  "word": "sturdy",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "enormous",
+  "word": "enormous",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "promising_a",
+  "word": "promising",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "promising_v",
+  "word": "promising",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "unconditional",
+  "word": "unconditional",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "wealth",
+  "word": "wealth",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "spotlight",
+  "word": "spotlight",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "astonishing_a",
+  "word": "astonishing",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "astonishing_v",
+  "word": "astonishing",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "timely",
+  "word": "timely",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "successful",
+  "word": "successful",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "useful",
+  "word": "useful",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "imagination",
+  "word": "imagination",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "bonanza",
+  "word": "bonanza",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "opportunities",
+  "word": "opportunities",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "survival",
+  "word": "survival",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "greatest",
+  "word": "greatest",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "security",
+  "word": "security",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "last minute",
+  "word": "last minute",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "largest",
+  "word": "largest",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "high tech",
+  "word": "high tech",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "refundable",
+  "word": "refundable",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "monumental",
+  "word": "monumental",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "colossal",
+  "word": "colossal",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "latest",
+  "word": "latest",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "quickly",
+  "word": "quickly",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "startling_a",
+  "word": "startling",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "startling_v",
+  "word": "startling",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "now",
+  "word": "now",
+  "feeling": "Power",
+  "type": "Connector"
+ },
+ {
+  "identifier": "important",
+  "word": "important",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "revolutionary",
+  "word": "revolutionary",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "quick",
+  "word": "quick",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "unlock",
+  "word": "unlock",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "urgent",
+  "word": "urgent",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "miracle_a",
+  "word": "miracle",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "miracle_s",
+  "word": "miracle",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "easy",
+  "word": "easy",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "fortune",
+  "word": "fortune",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "amazing_a",
+  "word": "amazing",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "amazing_v",
+  "word": "amazing",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "magic_a",
+  "word": "magic",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "magic_s",
+  "word": "magic",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "direct",
+  "word": "direct",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "authentic",
+  "word": "authentic",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "exciting_a",
+  "word": "exciting",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "exciting_v",
+  "word": "exciting",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "proven",
+  "word": "proven",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "simple",
+  "word": "simple",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "announcing_a",
+  "word": "announcing",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "announcing_v",
+  "word": "announcing",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "portfolio",
+  "word": "portfolio",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "reward",
+  "word": "reward",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "strange",
+  "word": "strange",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "huge gift",
+  "word": "huge gift",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "revealing_a",
+  "word": "revealing",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "revealing_v",
+  "word": "revealing",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "weird",
+  "word": "weird",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "value_a",
+  "word": "value",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "value_s",
+  "word": "value",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "introducing_a",
+  "word": "introducing",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "introducing_v",
+  "word": "introducing",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "sensational",
+  "word": "sensational",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "surprise_a",
+  "word": "surprise",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "surprise_s",
+  "word": "surprise",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "insider_a",
+  "word": "insider",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "insider_s",
+  "word": "insider",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "practical",
+  "word": "practical",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "excellent",
+  "word": "excellent",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "delighted_a",
+  "word": "delighted",
+  "feeling": "Power",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "delighted_v",
+  "word": "delighted",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "download_s",
+  "word": "download",
+  "feeling": "Power",
+  "type": "Subject"
+ },
+ {
+  "identifier": "download_v",
+  "word": "download",
+  "feeling": "Power",
+  "type": "Verb"
+ },
+ {
+  "identifier": "a",
+  "word": "a",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "for",
+  "word": "for",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "about",
+  "word": "about",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "from",
+  "word": "from",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "after",
+  "word": "after",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "get",
+  "word": "get",
+  "feeling": "Common",
+  "type": "Verb"
+ },
+ {
+  "identifier": "all_a",
+  "word": "all",
+  "feeling": "Common",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "all_c",
+  "word": "all",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "has",
+  "word": "has",
+  "feeling": "Common",
+  "type": "Verb"
+ },
+ {
+  "identifier": "an",
+  "word": "an",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "have",
+  "word": "have",
+  "feeling": "Common",
+  "type": "Verb"
+ },
+ {
+  "identifier": "and",
+  "word": "and",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "he",
+  "word": "he",
+  "feeling": "Common",
+  "type": "Subject"
+ },
+ {
+  "identifier": "are",
+  "word": "are",
+  "feeling": "Common",
+  "type": "Verb"
+ },
+ {
+  "identifier": "her",
+  "word": "her",
+  "feeling": "Common",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "as",
+  "word": "as",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "his",
+  "word": "his",
+  "feeling": "Common",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "at",
+  "word": "at",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "how",
+  "word": "how",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "be",
+  "word": "be",
+  "feeling": "Common",
+  "type": "Verb"
+ },
+ {
+  "identifier": "I",
+  "word": "I",
+  "feeling": "Common",
+  "type": "Subject"
+ },
+ {
+  "identifier": "but",
+  "word": "but",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "if",
+  "word": "if",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "by",
+  "word": "by",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "in",
+  "word": "in",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "can",
+  "word": "can",
+  "feeling": "Common",
+  "type": "Verb"
+ },
+ {
+  "identifier": "is",
+  "word": "is",
+  "feeling": "Common",
+  "type": "Verb"
+ },
+ {
+  "identifier": "did",
+  "word": "did",
+  "feeling": "Common",
+  "type": "Verb"
+ },
+ {
+  "identifier": "it",
+  "word": "it",
+  "feeling": "Common",
+  "type": "Subject"
+ },
+ {
+  "identifier": "do",
+  "word": "do",
+  "feeling": "Common",
+  "type": "Verb"
+ },
+ {
+  "identifier": "just",
+  "word": "just",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "ever",
+  "word": "ever",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "like_c",
+  "word": "like",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "like_v",
+  "word": "like",
+  "feeling": "Common",
+  "type": "Verb"
+ },
+ {
+  "identifier": "will_s",
+  "word": "will",
+  "feeling": "Common",
+  "type": "Subject"
+ },
+ {
+  "identifier": "will_c",
+  "word": "will",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "these",
+  "word": "these",
+  "feeling": "Common",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "me",
+  "word": "me",
+  "feeling": "Common",
+  "type": "Subject"
+ },
+ {
+  "identifier": "they",
+  "word": "they",
+  "feeling": "Common",
+  "type": "Subject"
+ },
+ {
+  "identifier": "most",
+  "word": "most",
+  "feeling": "Common",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "things",
+  "word": "things",
+  "feeling": "Common",
+  "type": "Subject"
+ },
+ {
+  "identifier": "my",
+  "word": "my",
+  "feeling": "Common",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "this",
+  "word": "this",
+  "feeling": "Common",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "no",
+  "word": "no",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "to",
+  "word": "to",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "not",
+  "word": "not",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "up",
+  "word": "up",
+  "feeling": "Common",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "of",
+  "word": "of",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "was",
+  "word": "was",
+  "feeling": "Common",
+  "type": "Verb"
+ },
+ {
+  "identifier": "on",
+  "word": "on",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "what",
+  "word": "what",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "re",
+  "word": "re",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "when",
+  "word": "when",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "she",
+  "word": "she",
+  "feeling": "Common",
+  "type": "Subject"
+ },
+ {
+  "identifier": "who",
+  "word": "who",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "should",
+  "word": "should",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "why",
+  "word": "why",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "so",
+  "word": "so",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "will_c",
+  "word": "will",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "will_s",
+  "word": "will",
+  "feeling": "Common",
+  "type": "Subject"
+ },
+ {
+  "identifier": "that_c",
+  "word": "that",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "that_a",
+  "word": "that",
+  "feeling": "Common",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "with",
+  "word": "with",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "the",
+  "word": "the",
+  "feeling": "Common",
+  "type": "Connector"
+ },
+ {
+  "identifier": "you",
+  "word": "you",
+  "feeling": "Common",
+  "type": "Subject"
+ },
+ {
+  "identifier": "their",
+  "word": "their",
+  "feeling": "Common",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "your",
+  "word": "your",
+  "feeling": "Common",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "there",
+  "word": "there",
+  "feeling": "Common",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "actually",
+  "word": "actually",
+  "feeling": "Uncommon",
+  "type": "Connector"
+ },
+ {
+  "identifier": "happened",
+  "word": "happened",
+  "feeling": "Uncommon",
+  "type": "Verb"
+ },
+ {
+  "identifier": "need_s",
+  "word": "need",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "need_v",
+  "word": "need",
+  "feeling": "Uncommon",
+  "type": "Verb"
+ },
+ {
+  "identifier": "thing",
+  "word": "thing",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "awesome",
+  "word": "awesome",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "heart",
+  "word": "heart",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "never",
+  "word": "never",
+  "feeling": "Uncommon",
+  "type": "Connector"
+ },
+ {
+  "identifier": "think",
+  "word": "think",
+  "feeling": "Uncommon",
+  "type": "Verb"
+ },
+ {
+  "identifier": "baby_s",
+  "word": "baby",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "baby_a",
+  "word": "baby",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "here",
+  "word": "here",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "new",
+  "word": "new",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "time",
+  "word": "time",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "beautiful",
+  "word": "beautiful",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "its",
+  "word": "its",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "now",
+  "word": "now",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "valentines_a",
+  "word": "valentines",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "valentines_s",
+  "word": "valentines",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "being_s",
+  "word": "being",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "being_v",
+  "word": "being",
+  "feeling": "Uncommon",
+  "type": "Verb"
+ },
+ {
+  "identifier": "know",
+  "word": "know",
+  "feeling": "Uncommon",
+  "type": "Verb"
+ },
+ {
+  "identifier": "old",
+  "word": "old",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "video",
+  "word": "video",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "best",
+  "word": "best",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "life",
+  "word": "life",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "one_s",
+  "word": "one",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "one_a",
+  "word": "one",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "want_v",
+  "word": "want",
+  "feeling": "Uncommon",
+  "type": "Verb"
+ },
+ {
+  "identifier": "want_s",
+  "word": "want",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "better",
+  "word": "better",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "little",
+  "word": "little",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "out",
+  "word": "out",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "watch",
+  "word": "watch",
+  "feeling": "Uncommon",
+  "type": "Verb"
+ },
+ {
+  "identifier": "boy_s",
+  "word": "boy",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "boy_a",
+  "word": "boy",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "look_v",
+  "word": "look",
+  "feeling": "Uncommon",
+  "type": "Verb"
+ },
+ {
+  "identifier": "look_s",
+  "word": "look",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "people_s",
+  "word": "people",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "people_a",
+  "word": "people",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "way",
+  "word": "way",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "dog",
+  "word": "dog",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "love_s",
+  "word": "love",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "love_v",
+  "word": "love",
+  "feeling": "Uncommon",
+  "type": "Verb"
+ },
+ {
+  "identifier": "photos",
+  "word": "photos",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "ways",
+  "word": "ways",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "down",
+  "word": "down",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "made",
+  "word": "made",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "made",
+  "word": "made",
+  "feeling": "Uncommon",
+  "type": "Verb"
+ },
+ {
+  "identifier": "really",
+  "word": "really",
+  "feeling": "Uncommon",
+  "type": "Connector"
+ },
+ {
+  "identifier": "world",
+  "word": "world",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "world",
+  "word": "world",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "make_s",
+  "word": "make",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "make_v",
+  "word": "make",
+  "feeling": "Uncommon",
+  "type": "Verb"
+ },
+ {
+  "identifier": "reasons",
+  "word": "reasons",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "year",
+  "word": "year",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "ﬁrst",
+  "word": "ﬁrst",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "makes",
+  "word": "makes",
+  "feeling": "Uncommon",
+  "type": "Verb"
+ },
+ {
+  "identifier": "right",
+  "word": "right",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "years",
+  "word": "years",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "found_a",
+  "word": "found",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "found_v",
+  "word": "found",
+  "feeling": "Uncommon",
+  "type": "Verb"
+ },
+ {
+  "identifier": "man_a",
+  "word": "man",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "man_s",
+  "word": "man",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "see",
+  "word": "see",
+  "feeling": "Uncommon",
+  "type": "Verb"
+ },
+ {
+  "identifier": "you will",
+  "word": "you will",
+  "feeling": "Uncommon",
+  "type": "Connector"
+ },
+ {
+  "identifier": "girl_a",
+  "word": "girl",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "girl_s",
+  "word": "girl",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "media_a",
+  "word": "media",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "media_s",
+  "word": "media",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "seen_v",
+  "word": "seen",
+  "feeling": "Uncommon",
+  "type": "Verb"
+ },
+ {
+  "identifier": "seen_a",
+  "word": "seen",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "good_s",
+  "word": "good",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "good_a",
+  "word": "good",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "mind_s",
+  "word": "mind",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "mind_v",
+  "word": "mind",
+  "feeling": "Uncommon",
+  "type": "Verb"
+ },
+ {
+  "identifier": "social_s",
+  "word": "social",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "social_v",
+  "word": "social",
+  "feeling": "Uncommon",
+  "type": "Verb"
+ },
+ {
+  "identifier": "guy_s",
+  "word": "guy",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "guy_a",
+  "word": "guy",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "more",
+  "word": "more",
+  "feeling": "Uncommon",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "something",
+  "word": "something",
+  "feeling": "Uncommon",
+  "type": "Subject"
+ },
+ {
+  "identifier": "destroy",
+  "word": "destroy",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "extra",
+  "word": "extra",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "in a",
+  "word": "in a",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "devastating_a",
+  "word": "devastating",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "devastating_v",
+  "word": "devastating",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "eye-opening",
+  "word": "eye-opening",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "gift_s",
+  "word": "gift",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "gift_v",
+  "word": "gift",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "in the world",
+  "word": "in the world",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "devoted_a",
+  "word": "devoted",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "devoted_v",
+  "word": "devoted",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "fail",
+  "word": "fail",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "in the",
+  "word": "in the",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "faith",
+  "word": "faith",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "grateful",
+  "word": "grateful",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "inexpensive",
+  "word": "inexpensive",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "dirty",
+  "word": "dirty",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "famous",
+  "word": "famous",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "disastrous",
+  "word": "disastrous",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "fantastic",
+  "word": "fantastic",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "greed",
+  "word": "greed",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "grit",
+  "word": "grit",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "insanely",
+  "word": "insanely",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "disgusting_v",
+  "word": "disgusting",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "disgusting_a",
+  "word": "disgusting",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "fearless",
+  "word": "fearless",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "disinformation",
+  "word": "disinformation",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "feast_v",
+  "word": "feast",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "feast_s",
+  "word": "feast",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "insidious",
+  "word": "insidious",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "dollar_a",
+  "word": "dollar",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "dollar_s",
+  "word": "dollar",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "feeble",
+  "word": "feeble",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "gullible",
+  "word": "gullible",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "double",
+  "word": "double",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "ﬁre_a",
+  "word": "ﬁre",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "fire_v",
+  "word": "fire",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "ﬁre_s",
+  "word": "ﬁre",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "hack_s",
+  "word": "hack",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "hack_v",
+  "word": "hack",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "ﬂeece_v",
+  "word": "ﬂeece",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "ﬂeece_s",
+  "word": "ﬂeece",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "had enough",
+  "word": "had enough",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "invasion",
+  "word": "invasion",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "drowning_a",
+  "word": "drowning",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "drowning_v",
+  "word": "drowning",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "ﬂoundering_a",
+  "word": "ﬂoundering",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "ﬂoundering_v",
+  "word": "ﬂoundering",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "happy",
+  "word": "happy",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "ironclad",
+  "word": "ironclad",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "dumb",
+  "word": "dumb",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "flush_s",
+  "word": "ﬂush",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "flush_v",
+  "word": "ﬂush",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "ﬂush_a",
+  "word": "ﬂush",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "hate_v",
+  "word": "hate",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "hate_s",
+  "word": "hate",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "irresistibly",
+  "word": "irresistibly",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "hazardous",
+  "word": "hazardous",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "is the",
+  "word": "is the",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "fool",
+  "word": "fool",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "is what happens when",
+  "word": "is what happens when",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "fooled_v",
+  "word": "fooled",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "fooled_a",
+  "word": "fooled",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "helpless",
+  "word": "helpless",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "it looks like a",
+  "word": "it looks like a",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "embarrass",
+  "word": "embarrass",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "for the ﬁrst time",
+  "word": "for the ﬁrst time",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "help_s",
+  "word": "help",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "help_v",
+  "word": "help",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "are the",
+  "word": "help are the",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "jackpot_a",
+  "word": "jackpot",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "jackpot_s",
+  "word": "jackpot",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "forbidden",
+  "word": "forbidden",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "hidden",
+  "word": "hidden",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "jail_s",
+  "word": "jail",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "jail_v",
+  "word": "jail",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "empower",
+  "word": "empower",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "force-fed",
+  "word": "force-fed",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "high",
+  "word": "high",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "jaw-dropping",
+  "word": "jaw-dropping",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "forgotten",
+  "word": "forgotten",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "jeopardy",
+  "word": "jeopardy",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "energize",
+  "word": "energize",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "hoax_v",
+  "word": "hoax",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "hoax_s",
+  "word": "hoax",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "jubilant",
+  "word": "jubilant",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "foul_s",
+  "word": "foul",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "foul_a",
+  "word": "foul",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "hope_v",
+  "word": "hope",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "hope_s",
+  "word": "hope",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "killer_s",
+  "word": "killer",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "killer_a",
+  "word": "killer",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "frantic",
+  "word": "frantic",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "horriﬁc",
+  "word": "horriﬁc",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "know it all",
+  "word": "know it all",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "epic_s",
+  "word": "epic",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "epic_a",
+  "word": "epic",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "how to make",
+  "word": "how to make",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "evil_s",
+  "word": "evil",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "evil_a",
+  "word": "evil",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "freebie",
+  "word": "freebie",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "frenzy_s",
+  "word": "frenzy",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "frenzy_a",
+  "word": "frenzy",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "hurricane_s",
+  "word": "hurricane",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "hurricane_a",
+  "word": "hurricane",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "excited",
+  "word": "excited",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "fresh on the mind",
+  "word": "fresh on the mind",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "frightening",
+  "word": "frightening",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "hypnotic",
+  "word": "hypnotic",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "lawsuit",
+  "word": "lawsuit",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "frugal",
+  "word": "frugal",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "illegal",
+  "word": "illegal",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "fulﬁll",
+  "word": "fulﬁll",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "lick_s",
+  "word": "lick",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "lick_v",
+  "word": "lick",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "explode",
+  "word": "explode",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "lies_s",
+  "word": "lies",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "lies_v",
+  "word": "lies",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "exposed",
+  "word": "exposed",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "gambling_a",
+  "word": "gambling",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "gambling_v",
+  "word": "gambling",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "like a normal",
+  "word": "like a normal",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "nightmare_s",
+  "word": "nightmare",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "nightmare_a",
+  "word": "nightmare",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "results",
+  "word": "results",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "line",
+  "word": "line",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "no good",
+  "word": "no good",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "pound_v",
+  "word": "pound",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "pound_s",
+  "word": "pound",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "loathsome",
+  "word": "loathsome",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "no questions asked",
+  "word": "no questions asked",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "revenge_s",
+  "word": "revenge",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "revenge_v",
+  "word": "revenge",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "lonely",
+  "word": "lonely",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "looks like a",
+  "word": "looks like a",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "obnoxious",
+  "word": "obnoxious",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "preposterous",
+  "word": "preposterous",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "revolting_v",
+  "word": "revolting",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "revolting_a",
+  "word": "revolting",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "looming_v",
+  "word": "looming",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "looming_a",
+  "word": "looming",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "priced_a",
+  "word": "priced",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "priced_v",
+  "word": "priced",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "lost_v",
+  "word": "lost",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "lost_a",
+  "word": "lost",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "prison",
+  "word": "prison",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "lowest",
+  "word": "lowest",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "of the",
+  "word": "of the",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "privacy",
+  "word": "privacy",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "rich",
+  "word": "rich",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "lunatic_s",
+  "word": "lunatic",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "lunatic_a",
+  "word": "lunatic",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "off-limits",
+  "word": "off-limits",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "private_s",
+  "word": "private",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "private_a",
+  "word": "private",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "risky",
+  "word": "risky",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "lurking_v",
+  "word": "lurking",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "lurking_a",
+  "word": "lurking",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "offer",
+  "word": "offer",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "prize",
+  "word": "prize",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "ruthless",
+  "word": "ruthless",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "lust_v",
+  "word": "lust",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "lust_s",
+  "word": "lust",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "official_s",
+  "word": "official",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "official_a",
+  "word": "official",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "luxurious",
+  "word": "luxurious",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "on the",
+  "word": "on the",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "proﬁt",
+  "word": "proﬁt",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "scary",
+  "word": "scary",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "lying_a",
+  "word": "lying",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "lying_v",
+  "word": "lying",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "outlawed",
+  "word": "outlawed",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "protected_a",
+  "word": "protected",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "protected_v",
+  "word": "protected",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "scream",
+  "word": "scream",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "searing_a",
+  "word": "searing",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "searing_v",
+  "word": "searing",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "overcome",
+  "word": "overcome",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "provocative",
+  "word": "provocative",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "make you",
+  "word": "make you",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "painful",
+  "word": "painful",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "pummel_s",
+  "word": "pummel",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "pummel_v",
+  "word": "pummel",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "secure_a",
+  "word": "secure",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "secure_v",
+  "word": "secure",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "pale",
+  "word": "pale",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "punish",
+  "word": "punish",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "marked down",
+  "word": "marked down",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "panic_v",
+  "word": "panic",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "panic_s",
+  "word": "panic",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "quadruple_a",
+  "word": "quadruple",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "quadruple_v",
+  "word": "quadruple",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "seductively",
+  "word": "seductively",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "massive_a",
+  "word": "massive",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "massive_s",
+  "word": "massive",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "pay zero",
+  "word": "pay zero",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "seize",
+  "word": "seize",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "meltdown_v",
+  "word": "meltdown",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "meltdown_s",
+  "word": "meltdown",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "payback_s",
+  "word": "payback",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "payback_v",
+  "word": "payback",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "might look like a",
+  "word": "might look like a",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "peril",
+  "word": "peril",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "mind-blowing",
+  "word": "mind-blowing",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "shameless",
+  "word": "shameless",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "minute_a",
+  "word": "minute",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "minute_s",
+  "word": "minute",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "rave_a",
+  "word": "rave",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "rave_s",
+  "word": "rave",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "rave_v",
+  "word": "rave",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "shatter",
+  "word": "shatter",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "piranha",
+  "word": "piranha",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "reckoning_a",
+  "word": "reckoning",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "reckoning_v",
+  "word": "reckoning",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "shellacking_s",
+  "word": "shellacking",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "shellacking_v",
+  "word": "shellacking",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "mired",
+  "word": "mired",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "pitfall",
+  "word": "pitfall",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "reclaim",
+  "word": "reclaim",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "mistakes",
+  "word": "mistakes",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "plague_a",
+  "word": "plague",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "plague_s",
+  "word": "plague",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "plague_v",
+  "word": "plague",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "sick and tired_v",
+  "word": "sick and tired",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "sick and tired_a",
+  "word": "sick and tired",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "money",
+  "word": "money",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "played_v",
+  "word": "played",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "played_a",
+  "word": "played",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "refugee_s",
+  "word": "refugee",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "refugee_a",
+  "word": "refugee",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "silly",
+  "word": "silly",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "money-grubbing",
+  "word": "money-grubbing",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "pluck_s",
+  "word": "pluck",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "pluck_v",
+  "word": "pluck",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "refund_v",
+  "word": "refund",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "refund_s",
+  "word": "refund",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "moneyback",
+  "word": "moneyback",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "plummet",
+  "word": "plummet",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "plunge",
+  "word": "plunge",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "murder_v",
+  "word": "murder",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "murder_s",
+  "word": "murder",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "pointless",
+  "word": "pointless",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "sinful",
+  "word": "sinful",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "myths",
+  "word": "myths",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "poor",
+  "word": "poor",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "remarkably",
+  "word": "remarkably",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "six-ﬁgure",
+  "word": "six-ﬁgure",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "never again",
+  "word": "never again",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "research_a",
+  "word": "research",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "research_v",
+  "word": "research",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "research_s",
+  "word": "research",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "surrender_a",
+  "word": "surrender",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "surrender_s",
+  "word": "surrender",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "surrender_v",
+  "word": "surrender",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "to the",
+  "word": "to the",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "verify",
+  "word": "verify",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "skyrocket_a",
+  "word": "skyrocket",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "skyrocket_v",
+  "word": "skyrocket",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "toxic",
+  "word": "toxic",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "vibrant",
+  "word": "vibrant",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "slaughter_s",
+  "word": "slaughter",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "slaughter_v",
+  "word": "slaughter",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "swindle_s",
+  "word": "swindle",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "swindle_v",
+  "word": "swindle",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "trap_s",
+  "word": "trap",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "trap_v",
+  "word": "trap",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "victim_a",
+  "word": "victim",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "victim_s",
+  "word": "victim",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "sleazy",
+  "word": "sleazy",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "taboo_s",
+  "word": "taboo",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "taboo_a",
+  "word": "taboo",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "treasure",
+  "word": "treasure",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "victory_s",
+  "word": "victory",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "victory_v",
+  "word": "victory",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "smash",
+  "word": "smash",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "tailspin_a",
+  "word": "tailspin",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "tailspin_v",
+  "word": "tailspin",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "vindication",
+  "word": "vindication",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "smug",
+  "word": "smug",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "tank_s",
+  "word": "tank",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "tank_v",
+  "word": "tank",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "triple_v",
+  "word": "triple",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "triple_a",
+  "word": "triple",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "viral",
+  "word": "viral",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "smuggled_a",
+  "word": "smuggled",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "smuggled_v",
+  "word": "smuggled",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "tantalizing",
+  "word": "tantalizing",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "triumph_v",
+  "word": "triumph",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "triumph_s",
+  "word": "triumph",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "volatile",
+  "word": "volatile",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "sniveling_a",
+  "word": "sniveling",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "sniveling_v",
+  "word": "sniveling",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "targeted_a",
+  "word": "targeted",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "targeted_v",
+  "word": "targeted",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "truth",
+  "word": "truth",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "vulnerable",
+  "word": "vulnerable",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "snob_s",
+  "word": "snob",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "snob_a",
+  "word": "snob",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "tawdry_a",
+  "word": "tawdry",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "tawdry_s",
+  "word": "tawdry",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "try before you buy",
+  "word": "try before you buy",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "tech_s",
+  "word": "tech",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "tech_a",
+  "word": "tech",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "turn the tables",
+  "word": "turn the tables",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "wanton_s",
+  "word": "wanton",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "wanton_a",
+  "word": "wanton",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "wanton_v",
+  "word": "wanton",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "soaring_a",
+  "word": "soaring",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "soaring_v",
+  "word": "soaring",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "warning_a",
+  "word": "warning",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "warning_s",
+  "word": "warning",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "warning_v",
+  "word": "warning",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "teetering_a",
+  "word": "teetering",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "teetering_v",
+  "word": "teetering",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "unauthorized_v",
+  "word": "unauthorized",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "unauthorized_a",
+  "word": "unauthorized",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "spectacular",
+  "word": "spectacular",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "temporary ﬁx",
+  "word": "temporary ﬁx",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "unbelievably",
+  "word": "unbelievably",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "spine",
+  "word": "spine",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "tempting_v",
+  "word": "tempting",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "tempting_a",
+  "word": "tempting",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "uncommonly",
+  "word": "uncommonly",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "what happened",
+  "word": "what happened",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "spirit",
+  "word": "spirit",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "what happens when",
+  "word": "what happens when",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "terror_a",
+  "word": "terror",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "terror_s",
+  "word": "terror",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "under",
+  "word": "under",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "what happens",
+  "word": "what happens",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "staggering_v",
+  "word": "staggering",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "staggering_a",
+  "word": "staggering",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "underhanded",
+  "word": "underhanded",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "what this",
+  "word": "what this",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "that will make you",
+  "word": "that will make you",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "undo",
+  "word": "undo",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "when you see",
+  "word": "when you see",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "that will make",
+  "word": "that will make",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "unexpected_v",
+  "word": "unexpected",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "unexpected_a",
+  "word": "unexpected",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "when you",
+  "word": "when you",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "strangle_s",
+  "word": "strangle",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "strangle_v",
+  "word": "strangle",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "that will",
+  "word": "that will",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "whip_s",
+  "word": "whip",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "whip_v",
+  "word": "whip",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "the best_s",
+  "word": "the best",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "the best_a",
+  "word": "the best",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "whopping_a",
+  "word": "whopping",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "whopping_v",
+  "word": "whopping",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "stuck up_a",
+  "word": "stuck up",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "stuck up_v",
+  "word": "stuck up",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "the ranking of",
+  "word": "the ranking of",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "wicked_v",
+  "word": "wicked",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "wicked_a",
+  "word": "wicked",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "stunning_v",
+  "word": "stunning",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "stunning_a",
+  "word": "stunning",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "the most_s",
+  "word": "the most",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "the most_a",
+  "word": "the most",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "will make you",
+  "word": "will make you",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "stupid",
+  "word": "stupid",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "the reason why is",
+  "word": "the reason why is",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "unscrupulous",
+  "word": "unscrupulous",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "thing ive ever seen",
+  "word": "thing ive ever seen",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "withheld_v",
+  "word": "withheld",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "withheld_a",
+  "word": "withheld",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "this is the",
+  "word": "this is the",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "this is what happens",
+  "word": "this is what happens",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "unusually",
+  "word": "unusually",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "wondrous",
+  "word": "wondrous",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "this is what",
+  "word": "this is what",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "uplifting_a",
+  "word": "uplifting",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "uplifting_v",
+  "word": "uplifting",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "worry_v",
+  "word": "worry",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "worry_s",
+  "word": "worry",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "sure",
+  "word": "sure",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "this is",
+  "word": "this is",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "wounded_a",
+  "word": "wounded",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "wounded_v",
+  "word": "wounded",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "surge_s",
+  "word": "surge",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "surge_v",
+  "word": "surge",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "thrilled_v",
+  "word": "thrilled",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "thrilled_a",
+  "word": "thrilled",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "you need to know",
+  "word": "you need to know",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "thrilling_v",
+  "word": "thrilling",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "thrilling_a",
+  "word": "thrilling",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "valor",
+  "word": "valor",
+  "feeling": "Emotion",
+  "type": "Subject"
+ },
+ {
+  "identifier": "you need to",
+  "word": "you need to",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "you see what",
+  "word": "you see what",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "surprising_v",
+  "word": "surprising",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "surprising_a",
+  "word": "surprising",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "tired_a",
+  "word": "tired",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "tired_v",
+  "word": "tired",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "you see",
+  "word": "you see",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "surprisingly",
+  "word": "surprisingly",
+  "feeling": "Emotion",
+  "type": "Adjective"
+ },
+ {
+  "identifier": "to be_c",
+  "word": "to be",
+  "feeling": "Emotion",
+  "type": "Connector"
+ },
+ {
+  "identifier": "to be_v",
+  "word": "to be",
+  "feeling": "Emotion",
+  "type": "Verb"
+ },
+ {
+  "identifier": "vaporize",
+  "word": "vaporize",
+  "feeling": "Emotion",
+  "type": "Verb"
+ }
+],
+
+}
